@@ -31,7 +31,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "gluegun": "latest"
+    "gluegun": "latest",
+    "line-reader": "^0.4.0"
   },
   "devDependencies": {
     "@types/node": "^12.7.11",
